@@ -9,7 +9,15 @@
       "Bash(npm install:*)",
       "Bash(set NODE_ENV=development)",
       "Bash(npm run:*)",
-      "Bash(curl:*)"
+      "Bash(curl:*)",
+      "Bash(dir:*)",
+      "Bash(npm start)",
+      "Bash(cmd //c \"taskkill /F /PID 22680 & taskkill /F /PID 21932\")",
+      "Bash(where:*)",
+      "Bash(cmd //c:*)",
+      "Bash(rm:*)",
+      "Bash(timeout:*)",
+      "Bash(git add:*)"
     ],
     "deny": [],
     "ask": []

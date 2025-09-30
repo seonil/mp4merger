@@ -109,3 +109,9 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.temp
+*.out
+*.err
+nul
+
+# Build output
+dist/
